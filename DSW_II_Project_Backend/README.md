@@ -1,6 +1,5 @@
-# DAWII-Sesion07BackendFinalizado
-### Servicio Rest - Crud en dos Tablas relacionadas
+# DSW_II_Project_Backend
 
 ## Autor ✒️
 
-* **Jorge Jacinto ** - [jorgejacinto9701](https://github.com/jorgejacinto9701)
+* **Dierick Uriol ** - 
